@@ -6,6 +6,7 @@ This is just a simple test to see how you loosely-coupled code components in the
 
 These are the requirements for the technical code test.
 
+* Checkout this repository using Git
 * Add functionatilies to the SqlUserRepository to Save (signup) and ReadByEmailAndPassword (login)
 * Use the schema.sql to create a simple Users table
 * Add UI components in signup.aspx and login.aspx. You can optionally use Bootstrap to highlight your knowledge of Bootstrap and other UI frameworks.
