@@ -9,7 +9,9 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>Welcome to Dashboard!</h1>
+            <h1>Hi 
+                <asp:Label ID="lblEmailAddress" runat="server" Text="Label"></asp:Label>
+                Welcome to Dashboard! </h1>
         </div>
     </form>
 </body>
